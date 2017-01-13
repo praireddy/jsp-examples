@@ -1,0 +1,16 @@
+.tableProperties
+{
+border: 1px solid black;
+margin-top: 50px;
+font-size:20px;
+background-color: pink;
+}
+body {
+background-color: lightblue;
+}
+h1 {
+color: red;
+font-size:22px;
+text-align: center;
+}
+
